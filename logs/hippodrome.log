@@ -1,113 +1,830 @@
-2024-02-15 13:25:24 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
-2024-02-15 13:25:24 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
-2024-02-15 13:25:24 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
-2024-02-15 13:25:24 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
-2024-02-15 13:25:24 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
-2024-02-15 13:25:24 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
-2024-02-15 13:25:24 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
-2024-02-15 13:25:24 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 7
-2024-02-15 13:25:24 [main] INFO  Main - Начало скачек. Количество участников: 7
-2024-02-15 13:25:45 [main] INFO  Main - Окончание скачек. Победитель: Cherry
-2024-02-15 14:55:55 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
-2024-02-15 14:55:55 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
-2024-02-15 14:55:55 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
-2024-02-15 14:55:55 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
-2024-02-15 14:55:55 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
-2024-02-15 14:55:55 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
-2024-02-15 14:55:55 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
-2024-02-15 14:55:55 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 7
-2024-02-15 14:55:55 [main] INFO  Main - Начало скачек. Количество участников: 7
-2024-02-15 14:56:16 [main] INFO  Main - Окончание скачек. Победитель: Cherry
-2024-02-15 15:56:48 [main] ERROR Hippodrome - Horses list is null
-2024-02-15 15:56:48 [main] ERROR Hippodrome - Horses list is null
-2024-02-15 15:56:48 [main] ERROR Hippodrome - Horses list is empty
-2024-02-15 15:56:48 [main] ERROR Hippodrome - Horses list is empty
-2024-02-15 15:56:48 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 50
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
-2024-02-15 15:56:48 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [5.9]
-2024-02-15 15:56:48 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
-2024-02-15 15:57:25 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
-2024-02-15 15:57:25 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
-2024-02-15 15:57:25 [main] ERROR Horse - Name is null
-2024-02-15 15:57:25 [main] ERROR Horse - Name is null
-2024-02-15 15:57:25 [main] ERROR Horse - Name is blank
-2024-02-15 15:57:25 [main] ERROR Horse - Name is blank
-2024-02-15 15:57:25 [main] ERROR Horse - Name is blank
-2024-02-15 15:57:25 [main] ERROR Horse - Name is blank
-2024-02-15 15:57:25 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
-2024-02-15 15:57:26 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
-2024-02-15 15:57:26 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
-2024-02-15 15:57:26 [main] ERROR Horse - Distance is negative
-2024-02-15 15:57:26 [main] ERROR Horse - Distance is negative
-2024-02-15 15:57:26 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
-2024-02-15 15:57:26 [main] ERROR Horse - Speed is negative
-2024-02-15 15:57:26 [main] ERROR Horse - Speed is negative
-2024-02-15 15:57:39 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
-2024-02-15 15:57:39 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
-2024-02-15 15:57:39 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
-2024-02-15 15:57:39 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
-2024-02-15 15:57:39 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
-2024-02-15 15:57:39 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
-2024-02-15 15:57:39 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
-2024-02-15 15:57:39 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 7
-2024-02-15 15:57:39 [main] INFO  Main - Начало скачек. Количество участников: 7
-2024-02-15 15:57:59 [main] INFO  Main - Окончание скачек. Победитель: Cherry
+2024-02-16 08:54:55 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 08:54:55 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 08:54:55 [main] ERROR Horse - Name is null
+2024-02-16 08:54:55 [main] ERROR Horse - Name is null
+2024-02-16 08:54:55 [main] ERROR Horse - Name is blank
+2024-02-16 08:54:55 [main] ERROR Horse - Name is blank
+2024-02-16 08:54:55 [main] ERROR Horse - Name is blank
+2024-02-16 08:54:55 [main] ERROR Horse - Name is blank
+2024-02-16 08:54:55 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 08:54:56 [main] ERROR Horse - Distance is negative
+2024-02-16 08:54:56 [main] ERROR Horse - Distance is negative
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 08:54:56 [main] ERROR Horse - Speed is negative
+2024-02-16 08:54:56 [main] ERROR Horse - Speed is negative
+2024-02-16 08:54:56 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 08:54:56 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 08:54:56 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 08:54:56 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 08:54:56 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 50
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 08:54:56 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [5.9]
+2024-02-16 08:54:56 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:00:58 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:00:58 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:00:58 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:00:58 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:00:58 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 50
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:00:59 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [5.9]
+2024-02-16 09:00:59 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:01:19 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:01:19 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:01:19 [main] ERROR Horse - Name is null
+2024-02-16 09:01:19 [main] ERROR Horse - Name is null
+2024-02-16 09:01:19 [main] ERROR Horse - Name is blank
+2024-02-16 09:01:19 [main] ERROR Horse - Name is blank
+2024-02-16 09:01:19 [main] ERROR Horse - Name is blank
+2024-02-16 09:01:19 [main] ERROR Horse - Name is blank
+2024-02-16 09:01:19 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:01:19 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:01:19 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:01:19 [main] ERROR Horse - Distance is negative
+2024-02-16 09:01:19 [main] ERROR Horse - Distance is negative
+2024-02-16 09:01:19 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:01:19 [main] ERROR Horse - Speed is negative
+2024-02-16 09:01:19 [main] ERROR Horse - Speed is negative
+2024-02-16 09:16:53 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:16:53 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:16:53 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:16:53 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:16:53 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 50
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:16:53 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [5.9]
+2024-02-16 09:16:53 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:17:14 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:17:14 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:17:14 [main] ERROR Horse - Name is null
+2024-02-16 09:17:14 [main] ERROR Horse - Name is null
+2024-02-16 09:17:14 [main] ERROR Horse - Name is blank
+2024-02-16 09:17:14 [main] ERROR Horse - Name is blank
+2024-02-16 09:17:14 [main] ERROR Horse - Name is blank
+2024-02-16 09:17:14 [main] ERROR Horse - Name is blank
+2024-02-16 09:17:14 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:17:14 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:17:14 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:17:14 [main] ERROR Horse - Distance is negative
+2024-02-16 09:17:14 [main] ERROR Horse - Distance is negative
+2024-02-16 09:17:14 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:17:14 [main] ERROR Horse - Speed is negative
+2024-02-16 09:17:14 [main] ERROR Horse - Speed is negative
+2024-02-16 09:18:28 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:18:28 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:18:28 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:18:28 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:18:28 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 50
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:18:28 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [5.9]
+2024-02-16 09:18:28 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:18:48 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:18:48 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:18:48 [main] ERROR Horse - Name is null
+2024-02-16 09:18:48 [main] ERROR Horse - Name is null
+2024-02-16 09:18:49 [main] ERROR Horse - Name is blank
+2024-02-16 09:18:49 [main] ERROR Horse - Name is blank
+2024-02-16 09:18:49 [main] ERROR Horse - Name is blank
+2024-02-16 09:18:49 [main] ERROR Horse - Name is blank
+2024-02-16 09:18:49 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:18:49 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:18:49 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:18:49 [main] ERROR Horse - Distance is negative
+2024-02-16 09:18:49 [main] ERROR Horse - Distance is negative
+2024-02-16 09:18:49 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:18:49 [main] ERROR Horse - Speed is negative
+2024-02-16 09:18:49 [main] ERROR Horse - Speed is negative
+2024-02-16 09:23:42 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:23:42 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:23:42 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:23:42 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:23:42 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 50
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:23:42 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [5.9]
+2024-02-16 09:23:42 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:24:03 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:24:03 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:24:03 [main] ERROR Horse - Name is null
+2024-02-16 09:24:03 [main] ERROR Horse - Name is null
+2024-02-16 09:24:03 [main] ERROR Horse - Name is blank
+2024-02-16 09:24:03 [main] ERROR Horse - Name is blank
+2024-02-16 09:24:03 [main] ERROR Horse - Name is blank
+2024-02-16 09:24:03 [main] ERROR Horse - Name is blank
+2024-02-16 09:24:03 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:24:03 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:24:03 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:24:03 [main] ERROR Horse - Distance is negative
+2024-02-16 09:24:03 [main] ERROR Horse - Distance is negative
+2024-02-16 09:24:03 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:24:03 [main] ERROR Horse - Speed is negative
+2024-02-16 09:24:03 [main] ERROR Horse - Speed is negative
+2024-02-16 09:39:23 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:39:23 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:39:23 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:39:23 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:39:23 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 50
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:39:23 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [5.9]
+2024-02-16 09:39:23 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:39:44 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:39:44 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:39:44 [main] ERROR Horse - Name is null
+2024-02-16 09:39:44 [main] ERROR Horse - Name is null
+2024-02-16 09:39:44 [main] ERROR Horse - Name is blank
+2024-02-16 09:39:44 [main] ERROR Horse - Name is blank
+2024-02-16 09:39:44 [main] ERROR Horse - Name is blank
+2024-02-16 09:39:44 [main] ERROR Horse - Name is blank
+2024-02-16 09:39:44 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:39:44 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:39:44 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:39:44 [main] ERROR Horse - Distance is negative
+2024-02-16 09:39:44 [main] ERROR Horse - Distance is negative
+2024-02-16 09:39:44 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:39:44 [main] ERROR Horse - Speed is negative
+2024-02-16 09:39:44 [main] ERROR Horse - Speed is negative
+2024-02-16 09:40:54 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:40:54 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:40:54 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:40:54 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:40:54 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 50
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:40:54 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [5.9]
+2024-02-16 09:40:54 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:41:15 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:41:15 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:41:15 [main] ERROR Horse - Name is null
+2024-02-16 09:41:15 [main] ERROR Horse - Name is null
+2024-02-16 09:41:15 [main] ERROR Horse - Name is blank
+2024-02-16 09:41:15 [main] ERROR Horse - Name is blank
+2024-02-16 09:41:15 [main] ERROR Horse - Name is blank
+2024-02-16 09:41:15 [main] ERROR Horse - Name is blank
+2024-02-16 09:41:15 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:41:15 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:41:15 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:41:15 [main] ERROR Horse - Distance is negative
+2024-02-16 09:41:15 [main] ERROR Horse - Distance is negative
+2024-02-16 09:41:15 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:41:15 [main] ERROR Horse - Speed is negative
+2024-02-16 09:41:15 [main] ERROR Horse - Speed is negative
+2024-02-16 09:42:04 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:42:04 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:42:04 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:42:04 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:42:04 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 50
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:42:04 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [5.9]
+2024-02-16 09:42:04 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:42:25 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:42:25 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:42:25 [main] ERROR Horse - Name is null
+2024-02-16 09:42:25 [main] ERROR Horse - Name is null
+2024-02-16 09:42:25 [main] ERROR Horse - Name is blank
+2024-02-16 09:42:25 [main] ERROR Horse - Name is blank
+2024-02-16 09:42:25 [main] ERROR Horse - Name is blank
+2024-02-16 09:42:25 [main] ERROR Horse - Name is blank
+2024-02-16 09:42:25 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:42:25 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:42:25 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:42:25 [main] ERROR Horse - Distance is negative
+2024-02-16 09:42:25 [main] ERROR Horse - Distance is negative
+2024-02-16 09:42:25 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:42:25 [main] ERROR Horse - Speed is negative
+2024-02-16 09:42:25 [main] ERROR Horse - Speed is negative
+2024-02-16 09:56:15 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:56:15 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 09:56:15 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:56:15 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 09:56:16 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 50
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 09:56:16 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [5.9]
+2024-02-16 09:56:16 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 09:56:36 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:56:36 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:56:36 [main] ERROR Horse - Name is null
+2024-02-16 09:56:36 [main] ERROR Horse - Name is null
+2024-02-16 09:56:36 [main] ERROR Horse - Name is blank
+2024-02-16 09:56:36 [main] ERROR Horse - Name is blank
+2024-02-16 09:56:36 [main] ERROR Horse - Name is blank
+2024-02-16 09:56:36 [main] ERROR Horse - Name is blank
+2024-02-16 09:56:36 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:56:36 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:56:36 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:56:36 [main] ERROR Horse - Distance is negative
+2024-02-16 09:56:36 [main] ERROR Horse - Distance is negative
+2024-02-16 09:56:36 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 09:56:36 [main] ERROR Horse - Speed is negative
+2024-02-16 09:56:36 [main] ERROR Horse - Speed is negative
+2024-02-16 10:06:43 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 10:06:43 [main] ERROR Hippodrome - Horses list is null
+2024-02-16 10:06:43 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 10:06:43 [main] ERROR Hippodrome - Horses list is empty
+2024-02-16 10:06:43 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 50
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Zephyr], скорость [2.6]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Blaze], скорость [2.7]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Lobster], скорость [2.8]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Cherry], скорость [3.0]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus1], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus2], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus3], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus4], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus5], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus6], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus7], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus8], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus9], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus10], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus11], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus12], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus13], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus14], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus15], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus16], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus17], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus18], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus19], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus20], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus21], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus22], скорость [2.9]
+2024-02-16 10:06:43 [main] DEBUG Horse - Создание Horse, имя [Pegasus23], скорость [5.9]
+2024-02-16 10:06:43 [main] DEBUG Hippodrome - Создание Hippodrome, лошадей 30
+2024-02-16 10:07:03 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 10:07:03 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 10:07:03 [main] ERROR Horse - Name is null
+2024-02-16 10:07:03 [main] ERROR Horse - Name is null
+2024-02-16 10:07:03 [main] ERROR Horse - Name is blank
+2024-02-16 10:07:03 [main] ERROR Horse - Name is blank
+2024-02-16 10:07:03 [main] ERROR Horse - Name is blank
+2024-02-16 10:07:03 [main] ERROR Horse - Name is blank
+2024-02-16 10:07:03 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 10:07:03 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 10:07:03 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 10:07:03 [main] ERROR Horse - Distance is negative
+2024-02-16 10:07:03 [main] ERROR Horse - Distance is negative
+2024-02-16 10:07:03 [main] DEBUG Horse - Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-02-16 10:07:03 [main] ERROR Horse - Speed is negative
+2024-02-16 10:07:03 [main] ERROR Horse - Speed is negative
